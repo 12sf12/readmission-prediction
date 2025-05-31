@@ -9,8 +9,7 @@ This project explores binary classification to predict whether a patient will be
 ## 📁 Files
 
 * `hospital_readmission_analysis.py`: Main script for data processing, model training, and evaluation
-* `feature_importance.png`: Bar plot of top 10 influential features
-* `final_report_readmission.md`: Concise project summary and discussion
+* `final_detailed_readmission_report.pdf`: Concise project summary and discussion
 * `requirements.txt`: Dependencies required to run the project
 
 ## 📊 Instructions
